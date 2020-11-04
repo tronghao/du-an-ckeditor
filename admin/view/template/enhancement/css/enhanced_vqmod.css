@@ -1,0 +1,186 @@
+#zipwarning {
+    color: rgba(231,0,3,1.00);
+	font-size:14px;
+	margin-top:3px;
+}
+.nav-tabs > li > a {
+    border-radius: 2px 20px 0 0;
+    color: #666;
+	outline:none;
+}
+.nav-tabs li a:hover > i {
+	-webkit-animation: swing 2s ease infinite;
+	-moz-animation: swing 2s ease infinite;
+	-o-animation: swing 2s ease infinite;
+	animation: swing 2s ease infinite;
+}
+#error-log {
+	width: 99%;
+	height: 400px;
+	padding: 5px;
+	border: 1px solid #CCCCCC;
+	background: #fff;
+	overflow: scroll;
+	margin-bottom: 10px;
+}
+#vqcache {
+	min-width: 250px;
+	margin-bottom: 10px;
+}
+.vqnws {
+	white-space: nowrap;
+}
+a.action-link:hover {
+	text-decoration: none;
+}
+.vqdescription {
+	font-size: 0.9em;
+	margin: 3px 0px;
+}
+.vqhelp {
+	color: #666;
+	font-size: 11px;
+	font-weight: normal;
+	display: block;
+}
+.error-install {
+	font-weight: bold;
+}
+.font-small {
+	color: #666;
+	font-size: 11px;
+	font-weight: normal;
+}
+#toast-container > div {
+	width: 550px!important;
+	opacity: 0.9;
+	-ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
+	filter: alpha(opacity=90);
+}
+.toast-message {
+	font-size:16px;
+	font-weight:bold;
+}
+.loading-overlay-container {position: relative;}
+.loading-overlay {position: absolute;left: 0;top: 0;width: 100%;height: 100%;background: rgba(0, 0, 0, 0.4)!important;font-size: 4em;text-align: center;z-index: 20;}
+
+#vqloader {
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	animation: 2s linear infinite spin;
+	border-color: #990000 #C9C9C9;
+	border-image: none;
+	border-radius: 50%;
+	border-style: solid;
+	border-width: 16px;
+	height: 120px;
+	left: 50%;
+	margin: 0 0 0 -60px;
+	position: fixed;
+	top: 35%;
+	width: 120px;
+	z-index: 1;
+	opacity:0.7;
+}
+#ea-msg {
+	height: 60px;
+	left: 50%;
+	margin: 30px 0 0 -160px;
+	position: fixed;
+	top: 35%;
+	width: 320px;
+	z-index: 1;	
+	border-top:2px solid #eee;
+	border-bottom:2px solid #eee;
+	padding:0;
+}
+#ea-msg div {
+	margin-top:-10px;
+	color: #eee;
+	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+	opacity:0.8;
+}
+
+@keyframes spin {
+to{transform:rotateZ(720deg)}
+}
+@-o-keyframes spin {
+to{transform:rotateZ(720deg)}
+}
+@-moz-keyframes spin {
+to{transform:rotateZ(720deg)}
+}
+@-webkit-keyframes spin {
+to{transform:rotateZ(720deg)}
+}
+
+@keyframes swing {
+	0%{transform:rotate(-12deg)}
+	8%{transform:rotate(12deg)}
+	10%{transform:rotate(24deg)}
+	18%{transform:rotate(-24deg)}
+	20%{transform:rotate(-24deg)}
+	28%{transform:rotate(24deg)}
+	30%{transform:rotate(24deg)}
+	38%{transform:rotate(-24deg)}
+	40%{transform:rotate(-24deg)}
+	48%{transform:rotate(24deg)}
+	50%{transform:rotate(24deg)}
+	58%{transform:rotate(-24deg)}
+	60%{transform:rotate(-24deg)}
+	68%{transform:rotate(24deg)}
+	75%,100%{transform:rotate(0deg)}
+}
+@-o-keyframes swing {
+	0%{transform:rotate(-12deg)}
+	8%{transform:rotate(12deg)}
+	10%{transform:rotate(24deg)}
+	18%{transform:rotate(-24deg)}
+	20%{transform:rotate(-24deg)}
+	28%{transform:rotate(24deg)}
+	30%{transform:rotate(24deg)}
+	38%{transform:rotate(-24deg)}
+	40%{transform:rotate(-24deg)}
+	48%{transform:rotate(24deg)}
+	50%{transform:rotate(24deg)}
+	58%{transform:rotate(-24deg)}
+	60%{transform:rotate(-24deg)}
+	68%{transform:rotate(24deg)}
+	75%,100%{transform:rotate(0deg)}
+}
+@-moz-keyframes swing {
+	0%{transform:rotate(-12deg)}
+	8%{transform:rotate(12deg)}
+	10%{transform:rotate(24deg)}
+	18%{transform:rotate(-24deg)}
+	20%{transform:rotate(-24deg)}
+	28%{transform:rotate(24deg)}
+	30%{transform:rotate(24deg)}
+	38%{transform:rotate(-24deg)}
+	40%{transform:rotate(-24deg)}
+	48%{transform:rotate(24deg)}
+	50%{transform:rotate(24deg)}
+	58%{transform:rotate(-24deg)}
+	60%{transform:rotate(-24deg)}
+	68%{transform:rotate(24deg)}
+	75%,100%{transform:rotate(0deg)}
+}
+@-webkit-keyframes swing {
+	0%{transform:rotate(-12deg)}
+	8%{transform:rotate(12deg)}
+	10%{transform:rotate(24deg)}
+	18%{transform:rotate(-24deg)}
+	20%{transform:rotate(-24deg)}
+	28%{transform:rotate(24deg)}
+	30%{transform:rotate(24deg)}
+	38%{transform:rotate(-24deg)}
+	40%{transform:rotate(-24deg)}
+	48%{transform:rotate(24deg)}
+	50%{transform:rotate(24deg)}
+	58%{transform:rotate(-24deg)}
+	60%{transform:rotate(-24deg)}
+	68%{transform:rotate(24deg)}
+	75%,100%{transform:rotate(0deg)}
+}

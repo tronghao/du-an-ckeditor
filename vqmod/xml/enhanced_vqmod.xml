@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+    <id>Enhanced VQMod Manager</id>
+    <version>1.1</version>
+    <vqmver>2.6.1</vqmver>
+    <author><![CDATA[<a href="https://www.opencart.com/index.php?route=marketplace/extension&filter_member=magicmike" title="View all OpenCart extensions by MagicMike" target="_blank"><span style="color:#333; font-weight:bold;">MagicMike <i class="fa fa-external-link"></i></span></a>]]></author>
+
+<!-- Controller -->		
+	<file name="admin/controller/common/column_left.php">
+		<operation error="log">
+			<search position="before" index="1"><![CDATA[if ($extension) {]]>
+		  </search>
+			<add><![CDATA[
+// Enhanced Admin	
+			if ($this->user->hasPermission('access', 'enhancement/ea_vqmod_manager') && !file_exists(DIR_SYSTEM.'../vqmod/xml/enhanced_admin.xml')) {
+				$extension[] = array(
+					'name'	   => $this->language->get('text_ea_vqmod_manager'),
+					'href'     => $this->url->link('enhancement/ea_vqmod_manager', 'token=' . $this->session->data['token'], true),
+					'children' => array()		
+				);
+			}
+// Enhanced Admin	
+			]]>
+		  </add>
+		</operation>
+	</file>
+
+<!-- Language -->		
+	<file name="admin/language/*/common/column_left.php">
+		<operation error="log"> 
+			<search position="after"><![CDATA[<?php]]></search>
+			<add><![CDATA[
+$_['text_ea_vqmod_manager']			= 'VQMod Manager';
+		]]></add>
+		</operation>
+	</file>
+	
+</modification>

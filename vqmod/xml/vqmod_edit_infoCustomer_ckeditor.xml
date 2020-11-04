@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+  <id>VQMOD CORE</id>
+  <version>1.4.x and 1.5.x</version>
+  <vqmver required="true">2.4.0</vqmver>
+  <author>vqmod.com</author>
+  
+  <file name="catalog/controller/account/edit.php">
+    <operation error="skip">
+      <search position="before" offset="1"><![CDATA[
+       // Custom Fields
+        ]]></search>
+      <add><![CDATA[
+          if (isset($this->request->post['infoCustomer'])) {
+            $data['infoCustomer'] = $this->request->post['infoCustomer'];
+          } elseif (!empty($customer_info)) {
+            $data['infoCustomer'] = $customer_info['info_customer'];
+          } else {
+            $data['infoCustomer'] = '';
+          } 
+        ]]></add>
+    </operation>
+  </file>
+
+  <file name="catalog/view/theme/default/template/account/edit.tpl">
+    <operation error="skip">
+      <search position="after"><![CDATA[
+        </fieldset>
+        ]]></search>
+      <add><![CDATA[
+          <fieldset>
+            <legend>Introduce yourself</legend>
+            <textarea class="form-control" rows="5" id="info" name="info-customer"><?php echo $infoCustomer; ?></textarea>
+          </fieldset>
+          <script src="https://cdn.ckeditor.com/ckeditor5/23.1.0/classic/ckeditor.js"></script>
+          <script>
+              ClassicEditor
+                  .create( document.querySelector( '#info' ) )
+                  .catch( error => {
+                      console.error( error );
+                  } );
+          </script>
+
+          <style>
+            .ck-editor__editable_inline {
+                min-height: 300px;
+                max-height: 300px;
+            }
+          </style>
+        ]]></add>
+    </operation>
+  </file>
+
+  <file name="catalog/model/account/customer.php">
+    <operation error="skip">
+      <search position="replace"><![CDATA[
+        $this->db->query("UPDATE " . DB_PREFIX . "customer SET firstname = '" . $this->db->escape($data['firstname']) . "', lastname = '" . $this->db->escape($data['lastname']) . "', email = '" . $this->db->escape($data['email']) . "', telephone = '" . $this->db->escape($data['telephone']) . "', fax = '" . $this->db->escape($data['fax']) . "', custom_field = '" . $this->db->escape(isset($data['custom_field']) ? serialize($data['custom_field']) : '') . "' WHERE customer_id = '" . (int)$customer_id . "'");
+        ]]></search>
+      <add><![CDATA[
+           $this->db->query("UPDATE " . DB_PREFIX . "customer SET firstname = '" . $this->db->escape($data['firstname']) . "', lastname = '" . $this->db->escape($data['lastname']) . "', email = '" . $this->db->escape($data['email']) . "', telephone = '" . $this->db->escape($data['telephone']) . "', fax = '" . $this->db->escape($data['fax']) . "', custom_field = '" . $this->db->escape(isset($data['custom_field']) ? serialize($data['custom_field']) : '') . "', info_customer='".$this->db->escape($data['info-customer'])."' WHERE customer_id = '" . (int)$customer_id . "'");
+        ]]></add>
+    </operation>
+
+  </file>
+
+</modification>

@@ -1,0 +1,1469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"initialize"
+			],
+			[
+				"edit",
+				"editRow"
+			],
+			[
+				"Text",
+				"TextField"
+			],
+			[
+				"edi",
+				"editRow"
+			],
+			[
+				"data",
+				"dataForm"
+			],
+			[
+				"setData",
+				"setDataForm"
+			],
+			[
+				"handl",
+				"handleSubmitForm"
+			],
+			[
+				"handle",
+				"handleSubmitFormCreate"
+			],
+			[
+				"delete_",
+				"delete_item"
+			],
+			[
+				"get_da",
+				"get_data"
+			],
+			[
+				"get_Da",
+				"get_data_first"
+			],
+			[
+				"add",
+				"add_person"
+			],
+			[
+				"result",
+				"resultEncrypt"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"listLet",
+				"listLetterReSultTypeInt"
+			],
+			[
+				"converList",
+				"convertListIntToListString"
+			],
+			[
+				"string",
+				"stringNeedEncrypt"
+			],
+			[
+				"converLi",
+				"convertListStringToListInt"
+			],
+			[
+				"conver",
+				"convertIntToChar"
+			],
+			[
+				"Table",
+				"TableList"
+			],
+			[
+				"choo",
+				"chooseElevator"
+			],
+			[
+				"kh",
+				"KhoangCach"
+			],
+			[
+				"tangCuoi",
+				"tangCuoiThangDangSoSanh"
+			],
+			[
+				"cho",
+				"choosenElevatorList"
+			],
+			[
+				"khoa",
+				"khoangCachCua2"
+			],
+			[
+				"kho",
+				"khoangCachCua1"
+			],
+			[
+				"ele",
+				"elevatorList"
+			],
+			[
+				"requ",
+				"requestList"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"reques",
+				"requestFloor"
+			],
+			[
+				"status",
+				"statusB"
+			],
+			[
+				"sta",
+				"statusA〔function〕"
+			],
+			[
+				"stus",
+				"statusA〔function〕"
+			],
+			[
+				"arr",
+				"arrayAdown"
+			],
+			[
+				"le",
+				"__len__〔function〕"
+			],
+			[
+				"ar",
+				"arrayAup"
+			],
+			[
+				"array",
+				"arrayAup"
+			],
+			[
+				"thre",
+				"thread3〔variable〕"
+			],
+			[
+				"Re",
+				"RequestFloor〔function〕"
+			],
+			[
+				"Requeste",
+				"RequestedFloor"
+			],
+			[
+				"arrayB1up",
+				"arrayB1up"
+			],
+			[
+				"el",
+				"elevatorA"
+			],
+			[
+				"eleva",
+				"elevatorA"
+			],
+			[
+				"t",
+				"THREADING"
+			],
+			[
+				"Loa",
+				"LoadingIndicator.js"
+			],
+			[
+				"tien",
+				"$tien_ung_truoc_do〔variable〕"
+			],
+			[
+				"ngay",
+				"$ngay_cong〔variable〕"
+			],
+			[
+				"item",
+				"item_nv"
+			],
+			[
+				"ten",
+				"$ten_cu〔variable〕"
+			],
+			[
+				"departmen",
+				"department_name"
+			],
+			[
+				"md_get",
+				"md_getByMa"
+			],
+			[
+				"so",
+				"$so_ngay_di_lam_qui_dinh〔variable〕"
+			],
+			[
+				"so_ngay_di_la",
+				"so_ngay_di_lam_thuc_te"
+			],
+			[
+				"list_nv",
+				"list_nv_cham_cong"
+			],
+			[
+				"so_ngay",
+				"$so_ngay_di_lam_thuc_te〔variable〕"
+			],
+			[
+				"so_nga",
+				"$so_ngay_di_lam_thuc_te〔variable〕"
+			],
+			[
+				"da",
+				"day_num"
+			],
+			[
+				"dat",
+				"day_of_month"
+			],
+			[
+				"ghi",
+				"$ghi_chu〔variable〕"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"setState",
+				"setStateHandler"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"header",
+				"headerProps"
+			],
+			[
+				"Hea",
+				"HEADER\tTag"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"L",
+				"Light.js"
+			],
+			[
+				"curren",
+				"currentColor"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"dien",
+				"dien_thoai_cha"
+			],
+			[
+				"ho",
+				"$ho_ten_cha〔variable〕"
+			],
+			[
+				"email",
+				"email_cha"
+			],
+			[
+				"die",
+				"dien_thoai_cha"
+			],
+			[
+				"dia",
+				"dia_chi_cha"
+			],
+			[
+				"ho_",
+				"ho_ten_cha"
+			],
+			[
+				"la",
+				"$la_dang_vien〔variable〕"
+			],
+			[
+				"nga",
+				"ngay_vao_dang"
+			],
+			[
+				"luong",
+				"$luong_ngay〔variable〕"
+			],
+			[
+				"di",
+				"$dia_chi〔variable〕"
+			],
+			[
+				"ton",
+				"$ton_giao〔variable〕"
+			],
+			[
+				"dan",
+				"dan_toc"
+			],
+			[
+				"tex",
+				"text-right"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"bord",
+				"border-box\tbox-sizing"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"tim",
+				"timekeeping_form"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"ngayC",
+				"$ngayCong〔variable〕"
+			],
+			[
+				"value",
+				"value_work_date"
+			],
+			[
+				"giaT",
+				"$giaTri〔variable〕"
+			],
+			[
+				"replace",
+				"str_replace"
+			],
+			[
+				"preg",
+				"preg_replace〔function〕"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"Ma",
+				"MaNganh"
+			],
+			[
+				"re",
+				"reply"
+			],
+			[
+				"lis",
+				"$listThongBao〔variable〕"
+			],
+			[
+				"list",
+				"listThongBao"
+			],
+			[
+				"model",
+				"$model〔variable〕"
+			],
+			[
+				"php_csdl",
+				"php_csdl_select\tselect-du-lieu"
+			],
+			[
+				"co",
+				"connect.php"
+			],
+			[
+				"ma",
+				"$maKhoa〔variable〕"
+			],
+			[
+				"al",
+				"alert-danger \tBootstrap 4 Class"
+			],
+			[
+				"KHo",
+				"KhoaModel"
+			],
+			[
+				"xu_ly",
+				"xu_ly_thay_doi_xuong"
+			],
+			[
+				"inputKh",
+				"inputKhacXuong"
+			],
+			[
+				"selectva",
+				"selectVanDeQuanTam"
+			],
+			[
+				"selectV",
+				"selectVanDeDa"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"tiep",
+				"tiep-tuc"
+			],
+			[
+				"exte",
+				"extension"
+			],
+			[
+				"depart",
+				"department"
+			],
+			[
+				"oc_model",
+				"oc_model_edit\toc_model_edit"
+			],
+			[
+				"view",
+				"view_model_sua〔function〕"
+			],
+			[
+				"oc_mdel_ge",
+				"oc_model_getByMa\toc_model_get_by_ma"
+			],
+			[
+				"oc_view",
+				"oc_view_form_edit\toc_view_form_edit"
+			],
+			[
+				"oc_con",
+				"oc_contrl_edit\toc_contr_edit"
+			],
+			[
+				"js_",
+				"js_removeElement\tjs-removeElement"
+			],
+			[
+				"getEle",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"N",
+				"NguoiHuongDan〔namespace〕"
+			],
+			[
+				"Th",
+				"$ThanhVien〔variable〕"
+			],
+			[
+				"get",
+				"getTrangThai〔function〕"
+			],
+			[
+				"g",
+				"getHoTen〔function〕"
+			],
+			[
+				"s",
+				"setQuote〔function〕"
+			],
+			[
+				"set",
+				"setContent〔function〕"
+			],
+			[
+				"se",
+				"setImg〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Ob",
+				"Objects〔namespace〕"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "catalog/model/account/customer.php",
+			"settings":
+			{
+				"buffer_size": 9151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vqmod/xml/vqmod_register_infoCustomer_ckeditor.xml",
+			"settings":
+			{
+				"buffer_size": 7268,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vqmod/xml/vqmod_edit_infoCustomer_ckeditor.xml",
+			"settings":
+			{
+				"buffer_size": 3024,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 1350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "catalog/controller/account/uploadimage.php",
+			"settings":
+			{
+				"buffer_size": 579,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "catalog/controller/account/account.php",
+			"settings":
+			{
+				"buffer_size": 4450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vqmod/vqcache/vq2-catalog_controller_account_register.php",
+			"settings":
+			{
+				"buffer_size": 16637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vqmod/vqcache/vq2-catalog_view_theme_default_template_account_register.tpl",
+			"settings":
+			{
+				"buffer_size": 47387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "catalog/controller/account/register.php",
+			"settings":
+			{
+				"buffer_size": 16419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vqmod/vqcache/vq2-catalog_controller_account_edit.php",
+			"settings":
+			{
+				"buffer_size": 8352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "catalog/controller/account/edit.php",
+			"settings":
+			{
+				"buffer_size": 8021,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "catalog/view/theme/default/template/account/edit.tpl",
+			"settings":
+			{
+				"buffer_size": 18998,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sync sett",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"",
+				"Build With: Vintageous"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/system",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/system/upload",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/vqcache",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/xml",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/xml/backups"
+	],
+	"file_history":
+	[
+		"/C/Users/Administrator/Downloads/BE/routes/api.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/config.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/xml/vqmod_edit_infoCustomer_ckeditor.xml",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/xml/vqmod_model_account_customer_register.xml",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/vqcache/vq2-catalog_model_account_customer.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/catalog/controller/account/register.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/catalog/view/theme/default/template/account/register.tpl",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/xml/vqmod_register_infoCustomer_ckeditor.xml",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/debug.sublime-project",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/vqmod/xml/vqmod_homepage.xml",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-ckeditor/catalog/controller/account/account.php",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.327/Service.cs",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.364/Service.cs",
+		"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa0.746/Service.cs",
+		"/C/xampp/htdocs/learn-react/learn-react/material-dashboard-react-master/src/views/TableList/TableList.js",
+		"/C/xampp/htdocs/learn-react/learn-react/material-dashboard-react-master/src/index.js",
+		"/C/Users/Administrator/Dropbox/My PC (DG6GI3E1598CP8F)/Desktop/startupkit.html",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/package.json",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/public/index.html",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/src/components/Input/create.js",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/src/routes.js",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/src/index.js",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/src/components/Input/update.js",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/src/views/TableList/TableList.js",
+		"/C/xampp/htdocs/learn-react/material-dashboard-react-master/src/components/Table/TableCustom.js",
+		"/C/Users/Administrator/Downloads/nganluong_woocommerce/nganluong.php",
+		"/C/Users/Administrator/Dropbox/My PC (DG6GI3E1598CP8F)/Desktop/af.html",
+		"/C/xampp/htdocs/du-an/Tomate/wp-content/plugins/custom-tra-cuu-bao-hanh/custom-tra-cuu-bao-hanh.php",
+		"/C/Users/Administrator/Downloads/FE/src/components/Header/HeaderLinks.js",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/style.css",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/functions.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/author.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/index.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/header.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/footer.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/page.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/single.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/content.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/content-none.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/archive.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/search.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/404.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/sidebar.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/templates/full-width.php",
+		"/C/xampp/htdocs/learn-wp/wp-content/themes/tronghao/templates/contact.php",
+		"/C/xampp/htdocs/learn-wp/wp-config.php",
+		"/C/xampp/htdocs/du-an/gia_su/python/Program.cs",
+		"/C/xampp/htdocs/du-an/gia_su/python/Program2.cs",
+		"/C/xampp/htdocs/du-an/gia_su/python/Residential_Controller.js",
+		"/C/xampp/htdocs/two_cn/server/.env",
+		"/C/Users/Administrator/Downloads/Residential_Controller.js",
+		"/C/xampp/htdocs/du-an/gia_su/python/Residential_Controller1.py",
+		"/C/xampp/htdocs/du-an/gia_su/python/test2.py",
+		"/C/Users/Administrator/Downloads/Residential_Controller.algo",
+		"/C/Users/Administrator/Desktop/elevator.algo",
+		"/C/Users/Administrator/Downloads/material-dashboard-react-master (1)/material-dashboard-react-master/README.md",
+		"/C/Users/Administrator/Downloads/material-dashboard-react-master (1)/material-dashboard-react-master/package.json",
+		"/C/xampp/htdocs/learn-react/setup/todo-list/node_modules/react-promise-tracker/lib/trackPromise.js",
+		"/C/Users/Administrator/Desktop/test_chart/chart_update.html",
+		"/C/Users/Administrator/Desktop/test_chart/chart.html",
+		"/C/Users/Administrator/Desktop/test_grid.html",
+		"/C/Users/Administrator/Desktop/html.html",
+		"/C/Users/Administrator/Downloads/trendy-home-topnav-updated/trendy-home-topnav-updated/index.html",
+		"/C/Users/Administrator/Desktop/New folder (2)/test.html",
+		"/C/Users/Administrator/Desktop/smarty.html",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/dantoc.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/hopdong.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/luong.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/phongban.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/phucap.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/tongiao.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/trinhdo.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/tanggiamluongnhanvien.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/ungluongnhanvien.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/ungluongnhanvien.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/baocaophongban.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/baocaonghiviec.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/baocaongaycongthang.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/chiluong.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/baocaoluongthang.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/inchiluong.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/baocaoluongphongbanthang.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/baocaoluongphongbanthang.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/baocaoluongthang.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/baocaongaycongthang.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/common/column_left.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/language/en-gb/extension/module/chiluong.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/baocaophucap.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/baocaotamung.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/baocaophucap.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/language/en-gb/extension/module/baocaongaycongthang.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/phucapnhanvien.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/phucapnhanvien.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/baocaotamung.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/language/en-gb/extension/module/baocaoluongthang.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/chiluong.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/language/en-gb/extension/module/baocaoluongphongbanthang.php",
+		"/C/xampp/htdocs/learn-react/setup/todo-list/src/App3.js",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/chucvu.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/nhanvien.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/controller/extension/module/chamcong.php",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/chamcong.twig",
+		"/C/xampp/htdocs/du-an/open-cart/du-an-qlns/upload/admin/view/template/extension/module/nhanvien.twig",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/hinhthucchamcong.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/phucap.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/luong.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/trinhdo.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/language/en-gb/extension/module/nhanvien.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/phongban.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/chucvu.php",
+		"/C/xampp/htdocs/do-an/ThucTap/resources/views/giang-vien/thong-tin-thuc-tap.blade.php",
+		"/C/xampp/htdocs/du-an/Tomate/wp-content/plugins/custom-tomate-site-2/form-thong-tin-bao-hanh.php",
+		"/C/xampp/htdocs/do-an/ThucTap/resources/views/admin/quan-tri.blade.php",
+		"/C/xampp/htdocs/du-an/Tomate/wp-content/plugins/custom-tomate-site-2/custom-tomate-site.php",
+		"/C/xampp/htdocs/du-an/Tomate/wp-content/plugins/custom-tomate-site-2/table-list-bao-hanh.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/view/template/extension/module/log.twig",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/log.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/language/en-gb/extension/module/log.php",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/view/template/extension/module/hinhthucchamcong.twig",
+		"/C/xampp/htdocs/du-an/open-cart/upload/admin/controller/extension/module/category.php",
+		"/C/xampp/htdocs/laythongitntuyensinh/get.php",
+		"/C/xampp/htdocs/laytin/vidu.php",
+		"/C/xampp/htdocs/db/dulieu.php",
+		"/C/xampp/htdocs/do-an/ThucTap/resources/views/guest/trang-chu.blade.php",
+		"/C/xampp/htdocs/do-an/ThucTap/resources/views/template/app.blade.php",
+		"/C/Users/Administrator/Desktop/quan-tri-admin.html"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"$data['column_left'] = $this->load->controller('common/column_left');",
+			"// Custom Fields",
+			"NOW()",
+			"date_added = NOW()",
+			"customer",
+			"action",
+			"model_localisation_country",
+			"action"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "catalog/model/account/customer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5593,
+								5593
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2391.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vqmod/xml/vqmod_register_infoCustomer_ckeditor.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4821,
+								4821
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2691.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "vqmod/xml/vqmod_edit_infoCustomer_ckeditor.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1713,
+								3007
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								884,
+								894
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "catalog/controller/account/uploadimage.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "catalog/controller/account/account.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4450
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "vqmod/vqcache/vq2-catalog_controller_account_register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11045,
+								11045
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "vqmod/vqcache/vq2-catalog_view_theme_default_template_account_register.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37885,
+								37885
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "catalog/controller/account/register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10942,
+								10942
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7590.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "vqmod/vqcache/vq2-catalog_controller_account_edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3803,
+								3825
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "catalog/controller/account/edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								908
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "catalog/view/theme/default/template/account/edit.tpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1264,
+								1289
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.937185929648,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 287.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "debug.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"TableList",
+				"src\\views\\TableList\\TableList.js"
+			],
+			[
+				"inde",
+				"src\\index.js"
+			],
+			[
+				"index.js",
+				"src\\index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"54":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"58":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"66":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"67":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"72":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"75":
+				{
+					"group": 2,
+					"index": 1
+				},
+				"76":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"77":
+				{
+					"group": 2,
+					"index": 0
+				},
+				"78":
+				{
+					"group": 1,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.937185929648,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

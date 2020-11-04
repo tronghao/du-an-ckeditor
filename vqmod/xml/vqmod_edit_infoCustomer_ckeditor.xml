@@ -32,13 +32,13 @@
             <legend>Introduce yourself</legend>
             <textarea class="form-control" rows="5" id="info" name="info-customer"><?php echo $infoCustomer; ?></textarea>
           </fieldset>
-          <script src="https://cdn.ckeditor.com/ckeditor5/23.1.0/classic/ckeditor.js"></script>
+          <script src="https://cdn.ckeditor.com/4.15.0/standard/ckeditor.js"></script>
+              
           <script>
-              ClassicEditor
-                  .create( document.querySelector( '#info' ) )
-                  .catch( error => {
-                      console.error( error );
-                  } );
+                  CKEDITOR.replace( 'info-customer' , {
+                    filebrowserUploadUrl: '<?php echo HTTP_SERVER.'index.php?route=account/uploadimage'; ?>',
+                    filebrowserUploadMethod: 'form',
+                  });
           </script>
 
           <style>

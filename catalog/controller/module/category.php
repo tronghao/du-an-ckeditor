@@ -17,10 +17,16 @@ class ControllerModuleCategory extends Controller {
 			$data['category_id'] = 0;
 		}
 
-		if (isset($parts[1])) {
+		if (isset($parts[2])) {
 			$data['child_id'] = $parts[1];
 		} else {
 			$data['child_id'] = 0;
+		}
+
+		if (isset($parts[2])) {
+			$data['child2_id'] = $parts[2];
+		} else {
+			$data['child2_id'] = 0;
 		}
 
 		$this->load->model('catalog/category');
@@ -38,13 +44,26 @@ class ControllerModuleCategory extends Controller {
 				$children = $this->model_catalog_category->getCategories($category['category_id']);
 
 				foreach($children as $child) {
+					$children2_data = array();
 					$filter_data = array('filter_category_id' => $child['category_id'], 'filter_sub_category' => true);
-
+					$children2 = $this->model_catalog_category->getCategories($child['category_id']);
+					
+					foreach($children2 as $child2) {
+						$filter2_data = array('filter_category_id' => $child2['category_id'], 'filter_sub_category' => true);
+						$children2_data[] = array(
+							'category_id' => $child2['category_id'], 
+							'name' => $child2['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter2_data) . ')' : ''), 
+							'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_'. $child['category_id'] . '_' . $child2['category_id']),
+						);
+					}
+					
 					$children_data[] = array(
 						'category_id' => $child['category_id'], 
 						'name' => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''), 
-						'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id'])
+						'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id']),
+						'children' => $children2_data
 					);
+					
 				}
 			}
 
@@ -60,7 +79,6 @@ class ControllerModuleCategory extends Controller {
 				'href'        => $this->url->link('product/category', 'path=' . $category['category_id'])
 			);
 		}
-
 		if (file_exists(DIR_TEMPLATE . $this->config->get('config_template') . '/template/module/category.tpl')) {
 			return $this->load->view($this->config->get('config_template') . '/template/module/category.tpl', $data);
 		} else {

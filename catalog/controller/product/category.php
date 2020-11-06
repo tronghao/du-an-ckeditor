@@ -149,6 +149,8 @@ class ControllerProductCategory extends Controller {
 				$url .= '&limit=' . $this->request->get['limit'];
 			}
 
+
+
 			$data['categories'] = array();
 
 			$results = $this->model_catalog_category->getCategories($category_id);
